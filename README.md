@@ -1,4 +1,5 @@
 Car Sales Performance Dashboard (Power BI):
+
 📌 Project Overview :
 
 This Power BI dashboard analyzes automotive sales data to provide insights into customer behavior, vehicle performance, revenue trends, and dealership operations. The dashboard enables stakeholders to monitor key business metrics, identify growth opportunities, and support data-driven decision-making.
